@@ -1,0 +1,70 @@
+#SUBSCRIBE-buton {
+  background-color: rgb(230, 6, 6);
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 2px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+#SUBSCRIBE-buton:hover {
+  opacity: 0.6;
+}
+#SUBSCRIBE-buton:active {
+  opacity: 0.35;
+}
+
+#JOIN-buton {
+  background-color: white;
+  border-color: rgb(64, 167, 246);
+  border: solid 1px;
+  color: rgb(64, 167, 246);
+  padding: 9.5px 15px;
+  border-radius: 2px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+}
+#JOIN-buton:hover {
+  background-color: rgb(64, 167, 246);
+  color: white;
+}
+#JOIN-buton:active {
+  opacity: 0.7;
+}
+
+#Tweet-buton {
+  background-color: rgb(106, 168, 255);
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  margin-right: 10px;
+  transition: box-shadow 0.2s;
+}
+#Tweet-buton:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+.Request-now {
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px 17px;
+  margin-right: 10px;
+}
+.Add-to-Cart {
+  background-color: rgb(250, 216, 45);
+  padding: 8px 40px;
+  border: none;
+  border-radius: 40px;
+}
+.Buy-now {
+  background-color: rgb(214, 168, 0);
+  padding: 8px 40px;
+  border: none;
+  border-radius: 40px;
+}
