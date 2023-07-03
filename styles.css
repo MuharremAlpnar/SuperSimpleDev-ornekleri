@@ -1,3 +1,6 @@
+button {
+  vertical-align: top;
+}
 #SUBSCRIBE-buton {
   background-color: rgb(230, 6, 6);
   color: white;
@@ -55,16 +58,34 @@
   cursor: pointer;
   padding: 10px 17px;
   margin-right: 10px;
+  transition: opacity 0.15s;
 }
+.Request-now:hover {
+  opacity: 0.75;
+}
+
 .Add-to-Cart {
   background-color: rgb(250, 216, 45);
   padding: 8px 40px;
   border: none;
   border-radius: 40px;
+  transition: background-color 0.12s;
+}
+.Add-to-Cart:hover {
+  background-color: rgb(200, 172, 36);
 }
 .Buy-now {
   background-color: rgb(214, 168, 0);
   padding: 8px 40px;
   border: none;
   border-radius: 40px;
+}
+.piece {
+  color: green;
+}
+#link {
+  color: rgb(0, 115, 255);
+}
+#link:hover {
+  color: red;
 }
