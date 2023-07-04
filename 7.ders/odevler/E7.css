@@ -1,0 +1,12 @@
+.google{
+  font-size: 18px;
+  font-family: Arial;
+  padding: 10px 300px 10px 15px;
+  border: gray solid 1px;
+  border-radius: 30px;
+  width: 300px;
+  margin-left:20px ;
+  margin-top:20px ;
+  box-shadow:2px 2px 2px rgba(0, 0, 0, 0.15);
+
+}
