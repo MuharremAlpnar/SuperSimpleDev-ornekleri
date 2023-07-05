@@ -10,3 +10,9 @@ object-position ile resimde hangi  alanın görülmesini istediğimizi ayarlayab
 
 -----------------------------------------
 placeholder input elementrerinde sikça kullanılan attributelerdendir kullanıcıya inputta nasıl bir veri girileceğini örnekler
+-------------------------------------------
+block: Öğenin bir blok gibi davranmasını sağlar. Öğe, genişlik ve yükseklik özelliklerini ayarlayabilir ve satırın tam genişliğini kaplar.
+
+inline: Öğenin satır içi gibi davranmasını sağlar. Öğe, içeriği sarmadan diğer içerikle yan yana yer alır. Genişlik ve yükseklik özellikleri ayarlanamaz.
+
+inline-block: Öğenin hem satır içi gibi davranmasını hem de genişlik ve yükseklik özelliklerinin ayarlanabilmesini sağlar.
