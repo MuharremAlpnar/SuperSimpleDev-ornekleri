@@ -16,3 +16,6 @@ block: Öğenin bir blok gibi davranmasını sağlar. Öğe, genişlik ve yükse
 inline: Öğenin satır içi gibi davranmasını sağlar. Öğe, içeriği sarmadan diğer içerikle yan yana yer alır. Genişlik ve yükseklik özellikleri ayarlanamaz.
 
 inline-block: Öğenin hem satır içi gibi davranmasını hem de genişlik ve yükseklik özelliklerinin ayarlanabilmesini sağlar.
+
+-------------------------------------------
+8B ödevinde butonları ortalamak için vertical-line özelliğini p etiketinde kullandım
